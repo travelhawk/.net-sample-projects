@@ -21,4 +21,4 @@ This is a more modern approach.
 Run `sc.exe create ".NET Test Service" binpath="C:\Path\To\App\net6.0-windows\WindowsTestServiceNET6.exe"`
 
 ### Uninstall Service
-Run `sc.exe delete ".NET Test Service"
+Run `sc.exe delete ".NET Test Service`
